@@ -1,6 +1,6 @@
 {
   "name": "nota-ai",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A command-line tool for developers that automatically generates code comments using locally hosted Ollama models.",
   "main": "src/index.js",
   "bin": {
