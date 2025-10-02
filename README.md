@@ -38,7 +38,7 @@ nota comment <input_file> [--config <config_file>]
 ```
 
 - `<input_file>` — path to the source code file (e.g., `src/index.py`)  
-- `--config` — optional path to config file (default: `.vororc.json`)  
+- `--config` — optional path to config file (default: `.notarc.json`)  
 
 ### Example:
 ```bash
@@ -51,7 +51,7 @@ nota --help
 ```
 
 ## Configuration
-Create a `.vororc.json` file in the root of your project to customize behavior:
+Create a `.notarc.json` file in the root of your project to customize behavior:
 
 ```json
 {
