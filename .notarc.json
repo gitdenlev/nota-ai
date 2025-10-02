@@ -1,0 +1,13 @@
+{
+  "nota": {
+    "ai": {
+      "model": "llama3.2",
+      "temperature": 0.5
+    },
+    "commenting": {
+      "includeLineComments": false,
+      "includeDocstrings": true,
+      "overwriteExisting": false
+    }
+  }
+}
